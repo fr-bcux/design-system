@@ -1,0 +1,15 @@
+button {
+  /* Use tokens for styling */
+  background-color: var(--color-button-primary-background-default);
+  color: var(--color-button-primary-text-default);
+  font-size: var(--font-size-button);
+  font-weight: var(--font-weight-button);
+  padding: var(--spacing-button-padding-y) var(--spacing-button-padding-x);
+  border-radius: var(--radius-button);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: var(--color-button-primary-background-hover);
+}
