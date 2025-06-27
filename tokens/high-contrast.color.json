@@ -1,0 +1,31 @@
+{
+  "color": {
+    "button": {
+      "primary": {
+        "background": {
+          "default": { "value": "{color.base.black}" },
+          "hover": { "value": "{color.base.black}" }
+        },
+        "text": {
+          "default": { "value": "{color.base.white}" }
+        },
+        "border": {
+          "hover": { "value": "{color.base.yellow.default}" }
+        }
+      },
+      "secondary": {
+        "background": {
+          "default": { "value": "{color.base.white}" },
+          "hover": { "value": "{color.base.white}" }
+        },
+        "text": {
+          "default": { "value": "{color.base.black}" }
+        },
+        "border": {
+          "default": { "value": "{color.base.black}" },
+          "hover": { "value": "{color.base.yellow.default}" }
+        }
+      }
+    }
+  }
+}

@@ -3,42 +3,42 @@
     "button": {
       "primary": {
         "background": {
-          "default": { "value": "{color.base.blue.primary.value}" },
-          "hover": { "value": "{color.base.blue.900.value}" },
-          "active": { "value": "{color.base.blue.900.value}" }
+          "default": { "value": "{color.base.blue.primary}" },
+          "hover": { "value": "{color.base.blue.900}" },
+          "active": { "value": "{color.base.blue.900}" }
         },
         "text": {
-          "default": { "value": "{color.base.white.value}" }
+          "default": { "value": "{color.base.white}" }
         }
       },
       "secondary": {
         "background": {
-          "default": { "value": "{color.base.white.value}" },
-          "hover": { "value": "{color.base.grey.5.value}" },
-          "active": { "value": "{color.base.grey.15.value}" }
+          "default": { "value": "{color.base.white}" },
+          "hover": { "value": "{color.base.grey.5}" },
+          "active": { "value": "{color.base.grey.15}" }
         },
         "text": {
-          "default": { "value": "{color.base.blue.primary.value}" }
+          "default": { "value": "{color.base.blue.primary}" }
         },
         "border": {
-          "default": { "value": "{color.base.blue.primary.value}" }
+          "default": { "value": "{color.base.blue.primary}" }
         }
       },
       "destructive": {
         "background": {
-          "default": { "value": "{color.base.red.default.value}" },
+          "default": { "value": "{color.base.red.default}" },
           "hover": { "value": "#8e182f" },
           "active": { "value": "#731326" }
         },
         "text": {
-          "default": { "value": "{color.base.white.value}" }
+          "default": { "value": "{color.base.white}" }
         }
       }
     },
     "utility": {
       "disabled": {
-        "background": { "value": "{color.base.grey.5.value}" },
-        "text": { "value": "{color.base.grey.38.value}" }
+        "background": { "value": "{color.base.grey.5}" },
+        "text": { "value": "{color.base.grey.38}" }
       }
     }
   }

@@ -3,25 +3,25 @@
     "button": {
       "primary": {
         "background": {
-          "default": { "value": "{color.base.blue.400.value}" },
-          "hover": { "value": "{color.base.blue.200.value}" },
-          "active": { "value": "{color.base.blue.200.value}" }
+          "default": { "value": "{color.base.blue.400}" },
+          "hover": { "value": "{color.base.blue.200}" },
+          "active": { "value": "{color.base.blue.200}" }
         },
         "text": {
-          "default": { "value": "{color.base.black.value}" }
+          "default": { "value": "{color.base.black}" }
         }
       },
       "secondary": {
         "background": {
           "default": { "value": "transparent" },
-          "hover": { "value": "{color.base.grey.67.value}" },
-          "active": { "value": "{color.base.grey.38.value}" }
+          "hover": { "value": "{color.base.grey.67}" },
+          "active": { "value": "{color.base.grey.38}" }
         },
         "text": {
-          "default": { "value": "{color.base.white.value}" }
+          "default": { "value": "{color.base.white}" }
         },
         "border": {
-          "default": { "value": "{color.base.white.value}" }
+          "default": { "value": "{color.base.white}" }
         }
       }
     }
