@@ -1,0 +1,26 @@
+{
+  "spacing": {
+    "button": {
+      "padding": {
+        "y": { "value": "12px" },
+        "x": { "value": "24px" }
+      }
+    }
+  },
+  "radius": {
+    "button": { "value": "8px" }
+  },
+  "border": {
+    "width": {
+      "button": { "value": "1.5px" }
+    }
+  },
+  "font": {
+    "size": {
+      "button": { "value": "16px" }
+    },
+    "weight": {
+      "button": { "value": 600 }
+    }
+  }
+}
